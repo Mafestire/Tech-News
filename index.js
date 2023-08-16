@@ -38,7 +38,7 @@ app.get('/', (req, res) => {
         q: 'coding',
         sources: 'engadget',
         domains: ' techcrunch.com',
-        from: '2023-03-25',
+        from: '2023-08-15',
         to: '2017-12-12',
         language: 'en',
         sortBy: 'relevancy',
